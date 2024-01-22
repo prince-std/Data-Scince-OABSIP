@@ -1,4 +1,4 @@
-# OIBSIP
+# Data Science Internship OIBSIP
 ## Oasis Infobyte Data Science Internship Project
 
 Welcome to the repository for my Data Science Internship Project with Oasis Infobyte. This project is a result of my efforts in completing three tasks assigned during the internship, aimed at solving real-world problems through data science methodologies.
